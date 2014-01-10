@@ -1,5 +1,5 @@
 {
-    "name": "Purkinje/laravelodbc",
+    "name": "Purkinje/Laravelodbc",
     "description": "Adds an ODBC driver to Laravel4",
     "keywords": ["laravel","database","odbc"],
     "license": "MIT",
