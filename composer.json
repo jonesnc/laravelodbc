@@ -1,5 +1,5 @@
 {
-    "name": "jtgrimes/laravelodbc",
+    "name": "Purkinje/laravelodbc",
     "description": "Adds an ODBC driver to Laravel4",
     "keywords": ["laravel","database","odbc"],
     "license": "MIT",
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-0": {
-            "jtgrimes\\Laravelodbc": "src/"
+            "Purkinje\\Laravelodbc": "src/"
         }
     },
     "minimum-stability": "dev"
